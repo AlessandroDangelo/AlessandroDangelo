@@ -1,3 +1,11 @@
+<h2 align="left">Welcome to my Github profile!</h2>
+
+###
+
+<p align="left">My name is Alessandro D’Angelo, i am currently a computer science student from MG, Brazil</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
