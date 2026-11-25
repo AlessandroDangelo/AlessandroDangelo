@@ -1,65 +1,25 @@
-<h2 align="left">Welcome to my Github profile!</h2>
+# Hi, I'm Alessandro D'Angelo
 
-###
+I'm a master's student in Computer Science at UFOP (PPGCC, since 2025), researching **computer vision** and **biometrics**. I'm currently based in Dourado, SP, Brazil.
 
-<p align="left">My name is Alessandro D’Angelo, i am currently a computer science student from MG, Brazil</p>
+## Featured projects
 
-###
+| Project | What it does | Stack |
+|---|---|---|
+| [Space Analogs](https://github.com/earthdevdefense/space-analogs) | Compares 43 places on Earth with 12 Moon and Mars targets, using open data from NASA, ESA and USGS. Team project for the NASA Space Apps Challenge 2026. | Python |
+| [Earth Dev Defense website](https://earthdevdefense.github.io) | Interactive site with the Space Analogs results: rankings, 3D globe and methodology. Team project. | JavaScript, HTML, CSS |
+| [Shorts-Summary](https://github.com/AlessandroDangelo/Shorts-Summary) | Transcribes and summarizes YouTube Shorts with ready-made AI models. Built during Rocketseat's NLW event. | JavaScript, Node.js |
 
-<h2 align="left">About me</h2>
+## Tech
 
-###
+**Main:** Python, PyTorch, C++, LaTeX, JavaScript, HTML, CSS, Git
 
-<p align="left">- College student<br>- Studyng Flutter, Dart, JS, React and Node</p>
+**Working knowledge:** Java, Spring Boot, Node.js
 
-###
+## Languages
 
-<h2 align="left">Techs</h2>
+Portuguese (native), English (C1, EF SET 69/100)
 
-###
+## Connect
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlessandroDangelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroDangelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessandroDangelo&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/alessandro-d-angelo-b063561b2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/alessandro-d-angelo-b063561b2/) · [Lattes](https://busca-cv-lattes.cnpq.br/curriculo/5187795369315102)
